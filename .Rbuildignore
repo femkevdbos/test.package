@@ -1,2 +1,3 @@
 ^test\.package\.Rproj$
 ^\.Rproj\.user$
+^README\.Rmd$
